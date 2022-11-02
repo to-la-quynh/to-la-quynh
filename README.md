@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @to-la-quynh
-- 👀 I’m interested in sleep, listen to music.
+- 👀 I’m interested in sleep.
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: caothanhquynh07012003@gmail.com
